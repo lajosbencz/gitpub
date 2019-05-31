@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+
+f="$(dirname "$(realpath "$0")")/gitpub.php"
+php "$f" "$@"

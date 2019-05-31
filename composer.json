@@ -1,0 +1,17 @@
+{
+    "name": "lajosbencz/gitpub",
+    "description": "Simple utility script to bump repository versions",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Lajos Bencz",
+            "email": "lazos@lazos.me"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {},
+    "bin": [
+        "bin/gitpub"
+    ]
+}
