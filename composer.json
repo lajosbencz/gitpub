@@ -12,6 +12,6 @@
     "minimum-stability": "stable",
     "require": {},
     "bin": [
-        "bin/gitpub"
+        "bin/gitpub.php"
     ]
 }
